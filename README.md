@@ -9,8 +9,6 @@
 + <a href="http://jessenoller.com/good-to-great-python-reads/" target="_blank">A bit of Python and other things </a> - by Jesse Noller
 + <a href="http://hetland.org/" target="_blank">M.L. Hetland </a> - Prof. at NTNU, author of Python&#39;s books
 + <a href="http://coffeeghost.net/" target="_blank">Al Sweigart </a> - blog of PyGame developer
-+ <a href="http://lgiordani.github.io/blog/2014/03/05/oop-concepts-in-python-2-dot-x-part-1/" target="_blank">OOP concepts in Python </a> - by Leonardo Giordani
-
 
 #### Newsletters
 + <a href="http://www.pythoncentral.io/" target="_blank">Python Central </a> - tips, tricks, recipes and more in Python
@@ -71,6 +69,7 @@
 
 #### Tips and tricks
 + <a href="https://pymotw.com/2/" target="_blank">Python Module of the Week </a> - tour of the Python standard library through short examples
++ <a href="http://lgiordani.github.io/blog/2014/03/05/oop-concepts-in-python-2-dot-x-part-1/" target="_blank">OOP concepts in Python </a> - by Leonardo Giordani
 + <a href="http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/" target="_blank">Python Decorators in 12 steps </a> - by Simeon Franklin
 + <a href="https://opbeat.com/events/duth/" target="_blank">Django Under The Hood </a> - November 5th-7th, 2015
 + <a href="http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make" target="_blank">Top 10 Mistakes that Python Programmers Make  </a> - by Martin Chikilian
