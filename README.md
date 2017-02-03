@@ -1,4 +1,4 @@
-## useful-python-resources
+## Useful Python resources
 #### Official sites
 + <a href="http://www.python.org/" target="_blank">Python Programming Language </a> - official website
 + <a href="http://www.enthought.com/" target="_blank">Enthought </a> - Python tools, training ang consulting
