@@ -9,7 +9,7 @@
 + <a href="http://jessenoller.com/good-to-great-python-reads/" target="_blank">A bit of Python and other things </a> - by Jesse Noller
 + <a href="http://hetland.org/" target="_blank">M.L. Hetland </a> - Prof. at NTNU, author of Python&#39;s books
 + <a href="http://coffeeghost.net/" target="_blank">Al Sweigart </a> - blog of PyGame developer
-
++ <a href="http://sebastianraschka.com/Articles/2014_deep_python.html" target="_blank">Sebastian Raschka </a> - deep into Python
 #### Newsletters
 + <a href="http://www.pythoncentral.io/" target="_blank">Python Central </a> - tips, tricks, recipes and more in Python
 + <a href="http://www.pythonweekly.com/" target="_blank">Python Weekly </a> - news, articles, releases, jobs related to Python
