@@ -43,7 +43,9 @@
 + <a href="http://masteringdjango.com/" target="_blank">Mastering Django </a> - new version of &quot;Django Book&quot;
 
 #### Tutorials and workshops
+
 + <a href="https://realpython.com/" target="_blank">Real Python </a> - Python Programming By Example
++ <a href="https://www.tutorialspoint.com/python/index.htm" target="_blank">Python Tutorial </a> on Tutorials Point
 + <a href="http://www.learnpython.org/" target="_blank">Learn Python </a> - From beginner to professional
 + <a href="http://www.pythonforbeginners.com/" target="_blank">Python For Beginners </a> - Good place to start
 + <a href="http://www.python-course.eu/course.php" target="_blank">Python Course </a> - For beginners and advanced programmers
