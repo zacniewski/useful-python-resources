@@ -4,12 +4,12 @@
 + <a href="http://www.enthought.com/" target="_blank">Enthought </a> - Python tools, training ang consulting
 
 #### Blogs
-
 + <a href="http://www.scientificpython.net/" target="_blank">Scientific Python </a> - by Prof. Greg von Winckel
 + <a href="http://jessenoller.com/good-to-great-python-reads/" target="_blank">A bit of Python and other things </a> - by Jesse Noller
 + <a href="http://hetland.org/" target="_blank">M.L. Hetland </a> - Prof. at NTNU, author of Python&#39;s books
 + <a href="http://coffeeghost.net/" target="_blank">Al Sweigart </a> - blog of PyGame developer
 + <a href="http://sebastianraschka.com/Articles/2014_deep_python.html" target="_blank">Sebastian Raschka </a> - deep into Python
+
 #### Newsletters
 + <a href="http://www.pythoncentral.io/" target="_blank">Python Central </a> - tips, tricks, recipes and more in Python
 + <a href="http://www.pythonweekly.com/" target="_blank">Python Weekly </a> - news, articles, releases, jobs related to Python
@@ -33,6 +33,7 @@
 #### WWW
 + <a href="https://www.djangoproject.com/" target="_blank">Django </a> - high-level Web framework
 + <a href="http://flask.pocoo.org/" target="_blank">Flask </a> - a microframework for Web development
++ <a href="https://falconframework.org/" target="_blank">Falcon </a> - a bare-metal Python web API framework
 + <a href="http://www.cherrypy.org/" target="_blank">CherryPy </a> - a minimalist Web framework
 + <a href="http://zope.org/" target="_blank">Zope </a> - application server for web applications
 + <a href="http://www.pylonsproject.org/" target="_blank">Pylons and Pyramid </a> - lightweight web frameworks
