@@ -66,6 +66,7 @@
 
 #### Books online
 + <a href="https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks" target="_blank">IPython notebooks </a> - Inspiring gallery of Notebooks
++ <a href="https://www.pythonforengineers.com/" target="_blank">Python For Engineers </a> - Books and Courses
 + <a href="http://pythonbooks.revolunet.com/" target="_blank">Python Books </a> - free Python resources
 + <a href="http://www.diveintopython.net/" target="_blank">Dive Into Python </a> - old, but still good book for all programmers
 + <a href="http://thepythongamebook.com/" target="_blank">Python Game Book </a> - code your own games
